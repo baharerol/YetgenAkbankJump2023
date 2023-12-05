@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Week_6_ReDoMusic_Basic/Infrastructure/ReDoMusic.Persistence/PrivateInformations.json
